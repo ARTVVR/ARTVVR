@@ -17,6 +17,14 @@
 <a href= https://github.com/ARTVVR?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/ARTVVR?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png'> </a>
  <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://cdn.worldvectorlogo.com/logos/webpack-icon.svg'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://cdn.worldvectorlogo.com/logos/eslint-1.svg'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://iconape.com/wp-content/files/eo/110906/svg/trello.svg'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://cdn-icons-png.flaticon.com/512/25/25231.png'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://cdn1.iconfinder.com/data/icons/seo-and-marketing-v-3/100/seo-02-512.png'> </a>
+ <a href= https://github.com/ARTVVR> <img width ='32px' height ='32px' src ='https://repository-images.githubusercontent.com/220078160/9353b600-0e54-11ea-9712-b79b66b93c00'> </a>
   
 
 
