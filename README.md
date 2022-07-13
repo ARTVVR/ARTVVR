@@ -33,7 +33,7 @@
 <a href = 'https://t.me/yung_christ_666'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png"/></a>
 <a href = 'https://www.github.com/ARTVVR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://discord.com/users/414582270918393856'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
-<a href = 'metelskiy.rabota@gmail.com'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/></a>
+<a href = 'mailto:metelskiy.rabota@gmail.com'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/></a>
 
 <br>
 <br>
