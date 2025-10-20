@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Artur Miatselski!</h1>
-<h3 align="center">Angular Frontend Developer | Building performant & elegant web interfaces</h3>
+<h1 align="left">Hello, I'm Artur Miatselski!</h1>
+<h3 align="left">Angular Frontend Developer | Building performant & elegant web interfaces</h3>
 
 ---
 
