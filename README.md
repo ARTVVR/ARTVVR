@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 🚀 **Frontend Developer** with 3+ years of commercial experience  
+- 🚀 **Frontend Developer** 
 - 💡 Specializing in **Angular (7–19)**, **RxJS**, **NgRx**, and **Angular Material**  
 - 🧱 Experienced in building **scalable, maintainable and responsive web apps**  
 - 🤝 Strong soft skills — communication, teamwork, and giving/receiving feedback  
